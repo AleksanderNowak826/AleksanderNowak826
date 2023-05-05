@@ -1,4 +1,4 @@
-<h1 align="center">Janny</h1>
+<h1 align="center">Aleksander</h1>
 
 <div color="green" align="center"> Senior Web Developer </div>
 
